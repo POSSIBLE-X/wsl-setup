@@ -3,7 +3,7 @@
 This repository contains scripts that allows for creating a development environment in order to develop for the POSSIBLE project.
 
 ## WSL
-To run POSSIBLE locally for development you need a Windows machine (tested on Windows 10 Pro 22H2) and install "Windows Subsystem for Linux" from the Microsoft Store.
+To run POSSIBLE locally for development you need a Windows machine (tested on Windows 10 Pro 22H2) and install ["Windows Subsystem for Linux"](https://www.microsoft.com/store/productId/9P9TQF7MRM4R?ocid=pdpshare) from the Microsoft Store.
 
 If you already have a WSL set up, please verify it is the correct version by running
 
